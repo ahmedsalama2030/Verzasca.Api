@@ -60,5 +60,15 @@
   "shiftNotFound": "لم يتم العثور على الشيفت.",
   "timeNotFound": "لم يتم العثور على الوقت.",
   "workTimeAddedToThisShift": "تمت إضافة وقت العمل إلى هذا الشيفت.",
-  "userAlreadyAddedToThisShift": "المستخدم مضاف بالفعل إلى هذا الشيفت."
+  "userAlreadyAddedToThisShift": "المستخدم مضاف بالفعل إلى هذا الشيفت.",
+
+
+
+
+
+
+
+  "notificationTestTitle": "اختبار الاشعارات",
+  "notificationTestDescription": "وصف اختبار الإشعارات"
+
 }
