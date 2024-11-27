@@ -69,6 +69,8 @@
 
 
   "notificationTestTitle": "اختبار الاشعارات",
-  "notificationTestDescription": "وصف اختبار الإشعارات"
+  "notificationTestDescription": "وصف اختبار الإشعارات",
+  "newTask": "مهمة جديده",
+  "updateTask": "تم التعديل علي التاسك"
 
 }

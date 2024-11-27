@@ -883,6 +883,12 @@
           "Microsoft.EntityFrameworkCore.Relational": "8.0.2",
           "Microsoft.Extensions.DependencyModel": "8.0.0",
           "Mono.TextTemplating": "2.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "8.0.2.0",
+            "fileVersion": "8.0.224.6803"
+          }
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/8.0.2": {
@@ -1231,6 +1237,20 @@
       "Mono.TextTemplating/2.2.1": {
         "dependencies": {
           "System.CodeDom": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mono.TextTemplating.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.1.1"
+          }
+        }
+      },
+      "NCrontab/3.3.3": {
+        "runtime": {
+          "lib/netstandard2.0/NCrontab.dll": {
+            "assemblyVersion": "3.3.3.0",
+            "fileVersion": "3.3.3.0"
+          }
         }
       },
       "Newtonsoft.Json/13.0.3": {
@@ -1890,6 +1910,7 @@
           "Daam.Verzasca.Infrastructure": "1.0.0",
           "Hangfire": "1.8.15",
           "LinqKit": "1.2.5",
+          "NCrontab": "3.3.3",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
@@ -2649,6 +2670,13 @@
       "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
+    },
+    "NCrontab/3.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2yzZXZLI0YpxrNgWnW/4xoo7ErLgWJIwTljRVEJ3hyjc7Kw9eGdjbFZGP1AhBuTUEZQ443PgZifG1yox6Qo1/A==",
+      "path": "ncrontab/3.3.3",
+      "hashPath": "ncrontab.3.3.3.nupkg.sha512"
     },
     "Newtonsoft.Json/13.0.3": {
       "type": "package",
