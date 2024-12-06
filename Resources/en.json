@@ -60,13 +60,9 @@
   "timeNotFound": "Time not found.",
   "workTimeAddedToThisShift": "Work time has been added to this shift.",
   "userAlreadyAddedToThisShift": "User is already added to this shift.",
-
   "notificationTestTitle": "Notification Test Title",
   "notificationTestDescription": "Notification Test Description",
-
   "newTask": "New Task",
-  "updateTask": "Task Updated"
-
-
-
+  "updateTask": "Task Updated",
+  "roleNameDbFound": "Role Name Db Found"
 }

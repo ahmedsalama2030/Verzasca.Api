@@ -62,15 +62,9 @@
   "workTimeAddedToThisShift": "تمت إضافة وقت العمل إلى هذا الشيفت.",
   "userAlreadyAddedToThisShift": "المستخدم مضاف بالفعل إلى هذا الشيفت.",
 
-
-
-
-
-
-
   "notificationTestTitle": "اختبار الاشعارات",
   "notificationTestDescription": "وصف اختبار الإشعارات",
   "newTask": "مهمة جديده",
-  "updateTask": "تم التعديل علي التاسك"
-
+  "updateTask": "تم التعديل علي التاسك",
+  "roleNameDbFound": "إسم الصلاحية موجود"
 }
