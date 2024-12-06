@@ -66,5 +66,6 @@
   "notificationTestDescription": "وصف اختبار الإشعارات",
   "newTask": "مهمة جديده",
   "updateTask": "تم التعديل علي التاسك",
-  "roleNameDbFound": "إسم الصلاحية موجود"
+  "roleNameDbFound": "إسم الصلاحية موجود",
+  "userFound": "إسم المستخدم موجود"
 }
