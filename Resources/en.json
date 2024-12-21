@@ -65,5 +65,14 @@
   "newTask": "New Task",
   "updateTask": "Task Updated",
   "roleNameDbFound": "Role Name Db Found",
-  "userFound": "user Found"
+  "userFound": "user Found",
+
+  "DailyOrders": "Daily Orders",
+  "TotalInvoices": "Total Invoices",
+  "InvoiceAmount": "Total Invoice Amount",
+  "UnrealizedRevenue": "Unrealized Revenue",
+  "notStart": "Not Start",
+  "inProgress": "In Progress",
+  "finished": "Finished",
+  "finishedAnother": "Finished Another"
 }

@@ -67,5 +67,13 @@
   "newTask": "مهمة جديده",
   "updateTask": "تم التعديل علي التاسك",
   "roleNameDbFound": "إسم الصلاحية موجود",
-  "userFound": "إسم المستخدم موجود"
+  "userFound": "إسم المستخدم موجود",
+  "DailyOrders": "إيراد غير محقق",
+  "TotalInvoices": "عدد الفواتير",
+  "InvoiceAmount": "قيمة الفواتير اليومية",
+  "UnrealizedRevenue": "إيراد غير محقق",
+  "notStart": "لم تبدأ",
+  "inProgress": "جار لمعالجة",
+  "finished": "انتهاء",
+  "finishedAnother": "أنتهاء لشخص أخر"
 }
