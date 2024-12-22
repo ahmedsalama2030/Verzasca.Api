@@ -74,5 +74,6 @@
   "notStart": "Not Start",
   "inProgress": "In Progress",
   "finished": "Finished",
-  "finishedAnother": "Finished Another"
+  "finishedAnother": "Finished Another",
+  "holiday": "Holiday"
 }
