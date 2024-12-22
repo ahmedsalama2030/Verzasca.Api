@@ -1978,6 +1978,7 @@
       "Daam.Verzasca.Identity/1.0.0": {
         "dependencies": {
           "Daam.Verzasca.Infrastructure": "1.0.0",
+          "Daam.Verzasca.Integration": "1.0.0",
           "Hangfire": "1.8.15",
           "LinqKit": "1.2.5"
         },
