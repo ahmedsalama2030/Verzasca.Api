@@ -75,5 +75,10 @@
   "inProgress": "In Progress",
   "finished": "Finished",
   "finishedAnother": "Finished Another",
-  "holiday": "Holiday"
+  "holiday": "Holiday",
+
+  "TemplateNotFound": "The specified WhatsApp message template was not found",
+  "MessageFailed": "Failed to send the WhatsApp message. Please try again.",
+  "LocationExists": "Location already exists for the given Order Code."
+
 }

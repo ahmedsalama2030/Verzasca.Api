@@ -1735,14 +1735,7 @@
           }
         }
       },
-      "System.Formats.Asn1/8.0.1": {
-        "runtime": {
-          "lib/net8.0/System.Formats.Asn1.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.724.31311"
-          }
-        }
-      },
+      "System.Formats.Asn1/8.0.1": {},
       "System.IdentityModel.Tokens.Jwt/7.1.2": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "7.1.2",
@@ -1981,7 +1974,10 @@
           "ZXing.Net": "0.16.9"
         },
         "runtime": {
-          "Daam.Verzasca.Application.dll": {}
+          "Daam.Verzasca.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Daam.Verzasca.Core/1.0.0": {
@@ -1994,7 +1990,10 @@
           "System.Drawing.Common": "9.0.0"
         },
         "runtime": {
-          "Daam.Verzasca.Core.dll": {}
+          "Daam.Verzasca.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Daam.Verzasca.Identity/1.0.0": {
@@ -2005,7 +2004,10 @@
           "LinqKit": "1.2.5"
         },
         "runtime": {
-          "Daam.Verzasca.Identity.dll": {}
+          "Daam.Verzasca.Identity.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Daam.Verzasca.Infrastructure/1.0.0": {
@@ -2029,7 +2031,10 @@
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
-          "Daam.Verzasca.Infrastructure.dll": {}
+          "Daam.Verzasca.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Daam.Verzasca.Integration/1.0.0": {
@@ -2041,7 +2046,10 @@
           "Microsoft.AspNetCore.Http.Features": "2.2.0"
         },
         "runtime": {
-          "Daam.Verzasca.Integration.dll": {}
+          "Daam.Verzasca.Integration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
